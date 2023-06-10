@@ -93,7 +93,6 @@ class _HomeState extends State<Home> {
   String PincodeMSG = "";
 
   String Location = "Select Location";
-
   @override
   void initState() {
     // TODO: implement initState
